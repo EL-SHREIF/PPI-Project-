@@ -1,4 +1,4 @@
-# PPI-Project-
+# PPI-Project
 PPI Project Description : ​8255A - Programmable Peripheral Interface 
 we will  implement the 8255 PPI chip in verilog. Learn about the 8255 chip  from here :  
  
