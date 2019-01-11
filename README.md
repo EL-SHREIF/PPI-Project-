@@ -1,6 +1,6 @@
 # PPI-Project
 PPI Project Description : ​8255A - Programmable Peripheral Interface 
-<img src="images/ppi.PNG" alt="choose mode" width="600px">
+<img src="images/ppi.GIF" alt="choose mode" width="600px">
 
 we will  implement the 8255 PPI chip in verilog. Learn about the 8255 chip  from here :  
  
